@@ -58,7 +58,7 @@ Use this end point to import Invoices
       <td>Must have a Value, cannot be blank.</td>
     </tr> <tr>
       <td>postcode</td>
-      <td>Ppostal Code or ZIP</td>
+      <td>Postal Code or ZIP</td>
       <td>Must have a Value, cannot be blank.</td>
     </tr> <tr>
       <td>country</td>
@@ -69,7 +69,7 @@ Use this end point to import Invoices
      <tr>
       <td>invoicedocument</td>
       <td>Base64 string of the invoice in PDF format</td>
-      <td>Must have a Value, cannot be blank and vallid PDF.</td>
+      <td>Must have a Value, cannot be blank and valid PDF.</td>
     </tr>
      <tr>
       <td>items</td>
@@ -84,7 +84,7 @@ Use this end point to import Invoices
      <tr>
       <td>quantity</td>
       <td>Quantity - in the UOM quantity setup for this SKU</td>
-      <td>Must have a Value and greater then zero</td>
+      <td>Must have a Value and greater than zero</td>
     </tr>
 
   </thead>
