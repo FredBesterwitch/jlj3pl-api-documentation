@@ -7,6 +7,7 @@ In order to access our API, you will need to get authenticated, We use Auth0 as 
 - Client Secret: Provided by the Application Administrator
 - API Key : Provided by the Application Administrator
 
+### Please try and Re-use the Token, by checking for expiry, before requesting for another access token.
 
 ### Getting an access token from the Authentication provider
 
