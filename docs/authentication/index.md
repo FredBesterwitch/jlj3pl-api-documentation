@@ -8,6 +8,8 @@ In order to access our API, you will need to get authenticated, We use Auth0 as 
 - API Key : Provided by the Application Administrator
 
 ### Please try and Re-use the Token, by checking for expiry, before requesting for another access token.
+## IMPORTANT!!!
+If there are more than FIVE Requests For Access Tokens a Day, your access to the API will be blocked for 24 hours.
 
 ### Getting an access token from the Authentication provider
 
